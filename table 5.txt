@@ -1,0 +1,6 @@
+1abcde
+a1debc
+be1dca
+cde1ab
+dcabe1
+ebca1d

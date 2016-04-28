@@ -1,0 +1,4 @@
+1abc
+abc1
+bc1a
+c1ab

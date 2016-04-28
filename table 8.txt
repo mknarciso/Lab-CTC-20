@@ -1,0 +1,12 @@
+1abcdefghijk
+abcdefghijk1
+bcdefghijk1a
+cdefghijk1ab
+defghijk1abc
+efghijk1abcd
+fghijk1abcde
+ghijk1abcdef
+hijk1abcdefg
+ijk1abcdefgh
+jk1abcdefghi
+k1abcdefghij
